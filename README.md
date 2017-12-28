@@ -7,10 +7,9 @@ Compare different model using same dataset
 2. [FasterRCNN](https://github.com/intel/caffe)
 
 3. [SSD](https://github.com/eric612/MobileNet-SSD-windows)
-```
 
 **YoloV2 Model download
-```
+
 download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzNlgSJugm89q)
 
 **YoloV2 Result 
