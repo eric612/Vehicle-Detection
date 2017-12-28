@@ -14,7 +14,7 @@ download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzNlgSJugm8
 
 ### YoloV2 Result 
 
-[![1](https://img.youtube.com/vi/kuKnOTDIbq4&t=1s/0.jpg)](https://www.youtube.com/watch?v=kuKnOTDIbq4&t=1s)
+[![1](https://img.youtube.com/vi/kuKnOTDIbq4/0.jpg)](https://www.youtube.com/watch?v=kuKnOTDIbq4)
 
 [![2](https://img.youtube.com/vi/OlNxMPkwxyQ/0.jpg)](https://www.youtube.com/watch?v=OlNxMPkwxyQ)
 
