@@ -23,6 +23,9 @@
 
 [![1](https://img.youtube.com/vi/EU51rO3M6yo/0.jpg)](https://www.youtube.com/watch?v=EU51rO3M6yo)
 
+[![1](https://img.youtube.com/vi/cKW5MVIlGMg/0.jpg)](https://www.youtube.com/watch?v=cKW5MVIlGMg)
+
+
 #### Training
 
 weights download [here](https://drive.google.com/open?id=1Ul8yRlvzcr8nsn5yfm9G_pdxqHVYsryY)
