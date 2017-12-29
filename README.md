@@ -8,11 +8,37 @@
 
 3. [SSD](https://github.com/eric612/MobileNet-SSD-windows)
 
-### YoloV2 Model download
 
-download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzNlgSJugm89q)
 
-### YoloV2 Result 
+### Customize YOLOv2 
+
+1. Better performance on small vehicle detection , but will add false object more
+2. light weight (30M , 27% size of full yolov2)
+3. 1.5x faster of full yolov2 (CPU forward)
+4. Only has conv,max pooling and region loss layer
+
+#### Result
+
+[![1](https://img.youtube.com/vi/9pS3Ov_b-Qg/0.jpg)](https://www.youtube.com/watch?v=9pS3Ov_b-Qg)
+
+[![1](https://img.youtube.com/vi/EU51rO3M6yo/0.jpg)](https://www.youtube.com/watch?v=EU51rO3M6yo)
+
+#### Training
+
+weights download [here](https://drive.google.com/open?id=1Ul8yRlvzcr8nsn5yfm9G_pdxqHVYsryY)
+
+train command
+```
+darknet detector train data/voc.data yolo-voc-custom.cfg car.conv.14
+```
+
+### Original YOLOv2 
+
+#### Model download
+
+weights download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzNlgSJugm89q)
+
+#### Result
 
 [![1](https://img.youtube.com/vi/kuKnOTDIbq4/0.jpg)](https://www.youtube.com/watch?v=kuKnOTDIbq4)
 
@@ -31,6 +57,16 @@ download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzNlgSJugm8
 [VGG19](https://drive.google.com/open?id=1FiSktKooiABZJB5UIun9tAmD5aTEAHxn)
 
 ### FasterRCNN Result 
+
+####VGG19
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NhID_pNwgac/0.jpg)](https://www.youtube.com/watch?v=NhID_pNwgac)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AjnaTelt0KM/0.jpg)](https://www.youtube.com/watch?v=AjnaTelt0KM)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vxk77dicGAQ/0.jpg)](https://www.youtube.com/watch?v=vxk77dicGAQ)
+
+####VGG16
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xjIB9t1tLOg/0.jpg)](https://www.youtube.com/watch?v=xjIB9t1tLOg)
 
