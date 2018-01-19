@@ -1,12 +1,12 @@
 # Vehicle Detection 
-```
-## Compare different model using same dataset
-```
+
+## Compare different model by using same dataset
+
 1. [YoloV2](https://github.com/eric612/yolov2-windows)
 
 2. [FasterRCNN](https://github.com/intel/caffe)
 
-3. [SSD](https://github.com/eric612/MobileNet-SSD-windows)
+3. [MobileNet SSD](https://github.com/eric612/MobileNet-SSD-windows)
 
 
 
