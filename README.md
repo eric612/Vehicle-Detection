@@ -73,13 +73,15 @@ weights download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzN
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xjIB9t1tLOg/0.jpg)](https://www.youtube.com/watch?v=xjIB9t1tLOg)
 
-### SSD Model
+### MobileNetSSD Model
 
-Download weights and prototxt [here](https://drive.google.com/open?id=1RdRDzfhVtzX27Lp8clv5mahyTf0O-O8Y)
+[weights](https://drive.google.com/open?id=1LbLSTPFSlHML5qAUYN-kt1bw2HxvvNWS)
 
-### SSD Result 
+[model](https://drive.google.com/open?id=1KOE5r-71FFWU0LZbpo9HMEUwM_RE1LHR)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xu9MkkufG0g/0.jpg)](https://www.youtube.com/watch?v=xu9MkkufG0g)
+### MobileNetSSD Result 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jn6SOzT_wPA/0.jpg)](https://www.youtube.com/watch?v=jn6SOzT_wPA)
 
 ### Source Video
 
