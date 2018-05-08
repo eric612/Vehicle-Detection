@@ -10,14 +10,14 @@
 
 ### YOLOv3 Tiny Result
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rA5nHltRGRE/1000.jpg)](https://www.youtube.com/watch?v=rA5nHltRGRE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rA5nHltRGRE/0.jpg)](https://www.youtube.com/watch?v=rA5nHltRGRE)
 
 
 ### YOLOv3 Tiny Model 
 
-[weights](\YOLO\yolov3-tiny.cfg)
+[weights](/YOLO/yolov3-tiny.cfg)
 
-[model](\YOLO\yolov3-tiny_final.weights)
+[model](/YOLO/yolov3-tiny_final.weights)
 
 ### MobileNetSSD Model
 
@@ -27,7 +27,7 @@
 
 ### MobileNetSSD_V2 Model
 
-[weights] (https://drive.google.com/open?id=1v5X4tCaMFa59cfS4Ksr1J-Fl40vKlfpl)
+[weights](https://drive.google.com/open?id=1v5X4tCaMFa59cfS4Ksr1J-Fl40vKlfpl)
 
 [model](https://github.com/eric612/MobileNet-SSD-windows/blob/master/models/MobileNetV2/deploy.prototxt)
 
