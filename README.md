@@ -2,56 +2,43 @@
 
 ## Compare different model by using same dataset
 
-1. [YoloV2](https://github.com/eric612/yolov2-windows)
+1. [YoloV3](https://pjreddie.com/darknet/yolo/)
 
 2. [FasterRCNN](https://github.com/intel/caffe)
 
-3. [MobileNet SSD](https://github.com/eric612/MobileNet-SSD-windows)
+3. [MobileNet(V2) SSD](https://github.com/eric612/MobileNet-SSD-windows)
+
+### YOLOv3 Tiny Result
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rA5nHltRGRE/1000.jpg)](https://www.youtube.com/watch?v=rA5nHltRGRE)
 
 
+### YOLOv3 Tiny Model 
 
-### Customize YOLOv2 
+[weights](\YOLO\yolov3-tiny.cfg)
 
-1. Better performance on small vehicle detection , but will add false object more
-2. light weight (30M , 27% size of full yolov2)
-3. 1.5x faster of full yolov2 (CPU forward)
-4. Only has conv,max pooling and region loss layer
+[model](\YOLO\yolov3-tiny_final.weights)
 
-#### Result
+### MobileNetSSD Model
 
-[![1](https://img.youtube.com/vi/9pS3Ov_b-Qg/0.jpg)](https://www.youtube.com/watch?v=9pS3Ov_b-Qg)
+[weights](https://drive.google.com/open?id=1LbLSTPFSlHML5qAUYN-kt1bw2HxvvNWS)
 
-[![1](https://img.youtube.com/vi/EU51rO3M6yo/0.jpg)](https://www.youtube.com/watch?v=EU51rO3M6yo)
+[model](https://drive.google.com/open?id=1KOE5r-71FFWU0LZbpo9HMEUwM_RE1LHR)
 
-[![1](https://img.youtube.com/vi/cKW5MVIlGMg/0.jpg)](https://www.youtube.com/watch?v=cKW5MVIlGMg)
+### MobileNetSSD_V2 Model
 
+[weights] (https://drive.google.com/open?id=1v5X4tCaMFa59cfS4Ksr1J-Fl40vKlfpl)
 
-#### Training
+[model](https://github.com/eric612/MobileNet-SSD-windows/blob/master/models/MobileNetV2/deploy.prototxt)
 
-weights download [here](https://drive.google.com/open?id=1Ul8yRlvzcr8nsn5yfm9G_pdxqHVYsryY)
+### MobileNetSSD Result 
 
-train command
-```
-darknet detector train data/voc.data yolo-voc-custom.cfg car.conv.14
-```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jn6SOzT_wPA/0.jpg)](https://www.youtube.com/watch?v=jn6SOzT_wPA)
 
-### Original YOLOv2 
+### MobileNetSSD_V2 Result 
 
-#### Model download
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oc3tXxOoSH4/0.jpg)](https://www.youtube.com/watch?v=oc3tXxOoSH4)
 
-weights download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzNlgSJugm89q)
-
-#### Result
-
-[![1](https://img.youtube.com/vi/kuKnOTDIbq4/0.jpg)](https://www.youtube.com/watch?v=kuKnOTDIbq4)
-
-[![2](https://img.youtube.com/vi/OlNxMPkwxyQ/0.jpg)](https://www.youtube.com/watch?v=OlNxMPkwxyQ)
-
-[![3](https://img.youtube.com/vi/FEb4SWWBjLA/0.jpg)](https://www.youtube.com/watch?v=FEb4SWWBjLA)
-
-[![4](https://img.youtube.com/vi/WThUZUfJMMQ/0.jpg)](https://www.youtube.com/watch?v=WThUZUfJMMQ)
-
-[![5](https://img.youtube.com/vi/3KSccLecHEM/0.jpg)](https://www.youtube.com/watch?v=3KSccLecHEM)
 
 ### FasterRCNN Model
 
@@ -73,15 +60,7 @@ weights download [here](https://drive.google.com/open?id=1pfGqD00STsauvBAnj6UyzN
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xjIB9t1tLOg/0.jpg)](https://www.youtube.com/watch?v=xjIB9t1tLOg)
 
-### MobileNetSSD Model
 
-[weights](https://drive.google.com/open?id=1LbLSTPFSlHML5qAUYN-kt1bw2HxvvNWS)
-
-[model](https://drive.google.com/open?id=1KOE5r-71FFWU0LZbpo9HMEUwM_RE1LHR)
-
-### MobileNetSSD Result 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jn6SOzT_wPA/0.jpg)](https://www.youtube.com/watch?v=jn6SOzT_wPA)
 
 ### Source Video
 
