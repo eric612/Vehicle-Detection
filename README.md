@@ -15,9 +15,10 @@
 
 ### YOLOv3 Tiny Model 
 
-[weights](/YOLO/yolov3-tiny.cfg)
+[weights](/YOLO/yolov3-tiny_final.weights)
 
-[model](/YOLO/yolov3-tiny_final.weights)
+[model](/YOLO/yolov3-tiny.cfg)
+
 
 ### MobileNetSSD Model
 
