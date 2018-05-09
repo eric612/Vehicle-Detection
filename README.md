@@ -40,6 +40,7 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oc3tXxOoSH4/0.jpg)](https://www.youtube.com/watch?v=oc3tXxOoSH4)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dsdeU8B0CJE/0.jpg)](https://www.youtube.com/watch?v=dsdeU8B0CJE)
 
 ### FasterRCNN Model
 
