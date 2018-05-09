@@ -12,6 +12,7 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rA5nHltRGRE/0.jpg)](https://www.youtube.com/watch?v=rA5nHltRGRE)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KSsnJuSrWMw/0.jpg)](https://www.youtube.com/watch?v=KSsnJuSrWMw)
 
 ### YOLOv3 Tiny Model 
 
