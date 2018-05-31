@@ -14,7 +14,11 @@
 
 [MobileNetV2-YOLOV2 model](https://gist.github.com/eric612/46ef14840c10aa9a0b8b5f4bf5a45ee9)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z_Zk8zLC3so/0.jpg)](https://www.youtube.com/watch?v=Z_Zk8zLC3so)
+[weights](/MobileNet-YOLO/MobileNetYOLO-V2_custom_iter_20000.caffemodel)
+
+[model](/MobileNet-YOLO/deploy_custom.prototxt)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Cac5U8tx7uU/0.jpg)](https://www.youtube.com/watch?v=Cac5U8tx7uU)
 
 ### YOLOv3 Tiny Result
 
