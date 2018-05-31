@@ -18,7 +18,7 @@
 
 [model](/MobileNet-YOLO/deploy_custom.prototxt)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Cac5U8tx7uU/0.jpg)](https://www.youtube.com/watch?v=Cac5U8tx7uU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JuCfOI9DrQ4/0.jpg)](https://www.youtube.com/watch?v=JuCfOI9DrQ4)
 
 ### YOLOv3 Tiny Result
 
