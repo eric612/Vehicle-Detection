@@ -2,7 +2,7 @@
 
 ## Compare different model by using same dataset
 
-1. [MobileNet-YOLO](https://github.com/eric612/MobileNet-SSD-windows)
+1. [MobileNet-YOLO](https://github.com/eric612/Caffe-YOLOv2-Windows)
 
 2. [YoloV3](https://pjreddie.com/darknet/yolo/)
 
