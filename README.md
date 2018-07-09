@@ -2,7 +2,7 @@
 
 ## Compare different model by using same dataset
 
-1. [MobileNet-YOLO](https://github.com/eric612/Caffe-YOLOv2-Windows)
+1. [MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO)
 
 2. [YoloV3](https://pjreddie.com/darknet/yolo/)
 
@@ -12,13 +12,13 @@
 
 ### MobileNet-YOLO Result
 
-[MobileNetV2-YOLOV2 model](https://gist.github.com/eric612/46ef14840c10aa9a0b8b5f4bf5a45ee9)
+[Run on linux](https://github.com/eric612/MobileNet-YOLO)
 
-[weights](/MobileNet-YOLO/MobileNetYOLO-V2_custom_iter_20000.caffemodel)
+[Run on windows](https://github.com/eric612/Caffe-YOLOv2-Windows)
 
-[model](/MobileNet-YOLO/deploy_custom.prototxt)
+[Models and Weights](https://github.com/eric612/MobileNet-YOLO/tree/master/models/vehicle)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JuCfOI9DrQ4/0.jpg)](https://www.youtube.com/watch?v=JuCfOI9DrQ4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oagXgyQHuNA/0.jpg)](https://www.youtube.com/watch?v=oagXgyQHuNA)
 
 ### YOLOv3 Tiny Result
 
