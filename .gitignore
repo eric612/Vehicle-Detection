@@ -2,6 +2,6 @@
 
 # Model and weighting
 
-*.caffemodel
+#*.caffemodel
 *.solverstate
 *.py

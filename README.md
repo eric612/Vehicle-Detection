@@ -16,9 +16,9 @@
 
 [Run on windows](https://github.com/eric612/Caffe-YOLOv2-Windows)
 
-[Models and Weights](https://github.com/eric612/MobileNet-YOLO/tree/master/models/vehicle)
+[Models and Weights](/MobileNet-YOLO)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oagXgyQHuNA/0.jpg)](https://www.youtube.com/watch?v=oagXgyQHuNA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/moW84z9zKOg/0.jpg)](https://www.youtube.com/watch?v=moW84z9zKOg)
 
 ### YOLOv3 Tiny Result
 
