@@ -10,6 +10,14 @@
 
 4. [MobileNet(V2) SSD](https://github.com/eric612/MobileNet-SSD-windows)
 
+### New !! Detection and Segementation
+
+Dectection and Segementation in one stage end-to-end [models](http://ethereon.github.io/netscope/#/gist/4e0f9e4840f0cced223ee60c31772b68)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rHMW8gkbe6s/0.jpg)](https://www.youtube.com/watch?v=rHMW8gkbe6s)
+
+[Training project](https://github.com/eric612/MobileNet-YOLO/edit/detection_with_segmentation/README.md)
+
 ### MobileNet-YOLO Result
 
 [Run on linux](https://github.com/eric612/MobileNet-YOLO)
